@@ -1,4 +1,6 @@
 # Nim
 
-To run the game, compile te program with the file coin.jpg in the same directory.
-![stack Overflow](http://lmsotfy.com/so.png)
+To run the game, compile the program with the file coin.jpg in the same directory.
+
+
+![Nim](https://github.com/GuillermoLopezJr/Nim/blob/master/ScreenShot.PNG)
