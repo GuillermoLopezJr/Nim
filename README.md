@@ -4,4 +4,7 @@ To run the game, compile the program with the file coin.jpg in the same director
 
 
 
+
+
+
 ![Nim](https://github.com/GuillermoLopezJr/Nim/blob/master/ScreenShot.PNG)
